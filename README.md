@@ -1,5 +1,7 @@
 # Womb for Concern
 
+## Jade Glaister and Anja Vogt
+
 **Erdős Summer 2025**
 
 This project explores maternal and infant health outcomes, focusing on predicting low birth weight (LBW) and eclampsia. 
